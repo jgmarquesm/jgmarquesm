@@ -14,7 +14,7 @@ I’m currently working on Physics researches and I use:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmarques&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ##
+##
   
 I’m learning...
 <div style="display: inline_block">
@@ -33,12 +33,15 @@ And I'm interrested in:
   <img align="center" alt="Joao-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </div>
   
-  ##
-  
-    ![Snake animation](https://github.com/jgmarquesm/jgmarquesm/blob/output/github-contribution-grid-snake.svg)
+##
+
 Follow, subscribe and contact me by:
 <div>
   <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.reddit.com/user/Kosmar0Devil/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
 </div>
+
+##
+  
+![Snake animation](https://github.com/jgmarquesm/jgmarquesm/blob/output/github-contribution-grid-snake.svg)  
