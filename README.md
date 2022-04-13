@@ -17,6 +17,7 @@ I’m currently working on Physics researches and I use:
 ##
   
 I’m learning...
+  
 <div style="display: inline_block">
    <img align="center" alt="Joao-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
@@ -36,6 +37,7 @@ And I'm interrested in:
 ##
 
 Follow, subscribe and contact me by:
+  
 <div>
   <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
