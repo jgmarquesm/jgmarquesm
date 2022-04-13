@@ -1,6 +1,7 @@
 ### Hey, I'm João Gabriel!
 
-I’m currently working on Physics researches and I use:
+# I’m currently working on Physics researches and I use:
+
 <div style="display: inline_block">
   <img align="center" alt="Joao-Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
   <img align="center" alt="Joao-Fortran" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white">
@@ -16,7 +17,7 @@ I’m currently working on Physics researches and I use:
   
 ##
   
-I’m learning...
+# I’m learning...
   
 <div style="display: inline_block">
    <img align="center" alt="Joao-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -36,13 +37,23 @@ And I'm interrested in:
   
 ##
 
-Follow, subscribe and contact me by:
+# Follow, subscribe and contact me by:
   
 <div>
   <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.reddit.com/user/Kosmar0Devil/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+## Visitas no pefil - Atividade
+
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/jgmarquesm/count.svg" />  
+</p>
 
 ##
   
