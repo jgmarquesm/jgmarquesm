@@ -1,6 +1,6 @@
-### Hey, I'm João Gabriel!
+## Hey, I'm João Gabriel!
 
-# I’m currently working on Physics researches and I use:
+### I’m currently working on Physics researches and I use:
 
 <div style="display: inline_block">
   <img align="center" alt="Joao-Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
@@ -17,7 +17,7 @@
   
 ##
   
-# I’m learning...
+### I’m learning...
   
 <div style="display: inline_block">
    <img align="center" alt="Joao-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -37,7 +37,7 @@ And I'm interrested in:
   
 ##
 
-# Follow, subscribe and contact me by:
+### Follow, subscribe and contact me by:
   
 <div>
   <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -47,8 +47,7 @@ And I'm interrested in:
 
 ##
 
-## Visitas no pefil - Atividade
-
+### Profile visitors
 <!-- visitors count  -->
 
 <p align="center" >   
