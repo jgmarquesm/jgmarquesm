@@ -44,8 +44,9 @@
 <div>
   <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.reddit.com/user/Kosmar0Devil/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
-    <a href = "https://www.codewars.com/users/jgmarquesm"><img src="https://www.codewars.com/users/jgmarquesm/badges/micro" target="_blank"></a>
+  <a href="https://www.reddit.com/user/Kosmar0Devil/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
+  <a href = "https://www.codewars.com/users/jgmarquesm"><img src="https://www.codewars.com/users/jgmarquesm/badges/micro" target="_blank"></a>
+  <a href = "https://web.dio.me/users/joaogabrielmarques"><img height="30" width="120" src="https://raw.githubusercontent.com/brunoemferreira/DIO-jogo-da-cobrinha-Javascript/main/Assets/logo-sm-white.png" target="_blank"></a>
 </div>
 
 ##
