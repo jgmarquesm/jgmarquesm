@@ -2,10 +2,10 @@
 
 ### I’m currently working on Physics researches and I use:
 
-<div style="display: flex; justify-content: center; align-items: center; height: 50px">
+<div style="display: flex; justify-content: center; align-items: center">
+ <img align="center" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" title="Fortran">
  <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex">
- <img align="center" width="60px" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" title="Fortran">
- <img align="center" width="60px" src="https://colab.research.google.com/assets/colab-badge.svg" title="Google-Colab">
+ <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter-Notebook">
 </div>
 
 ##
@@ -30,17 +30,17 @@
 <div ><br>
 </div>
 
-## And I'm interrested in:
+### And I'm interrested in:
 
 
 <div style="display: inline_block">
- <img align="center" alt="Joao-Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
- <img align="center" alt="Joao-RubyoR" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
- <img align="center" alt="Joao-PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
- <img align="center" alt="Joao-Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
- <img align="center" alt="Joao-Reactjs" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
- <img align="center" alt="Joao-MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
- <img align="center" alt="Joao-MONGODB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
+ <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
+ <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
+ <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
+ <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React-js">
+ <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
+ <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
 </div>
   
 ##
@@ -48,10 +48,10 @@
 ### Follow, subscribe or contact me:
   
 <div>
- <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.reddit.com/user/Kosmar0Devil/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
- <a href = "https://pt.stackoverflow.com/users/285047/jgmarquesm"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+ <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+ <a href="https://www.reddit.com/user/Kosmar0Devil/" target="_blank"><img width="40x" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" target="_blank"></a>
+ <a href = "https://pt.stackoverflow.com/users/285047/jgmarquesm"><img width="35px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" target="_blank"></a>
  <a href = "https://www.codewars.com/users/jgmarquesm"><img src="https://www.codewars.com/users/jgmarquesm/badges/micro" target="_blank"></a>
  <a href = "https://web.dio.me/users/joaogabrielmarques"><img height="30" width="120" src="https://raw.githubusercontent.com/brunoemferreira/DIO-jogo-da-cobrinha-Javascript/main/Assets/logo-sm-white.png" target="_blank"></a>
 </div>
