@@ -41,8 +41,8 @@
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmarquesm&layout=compact&langs_count=7&theme=gruvbox"/>
  </div>
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jgmarquesm&" alt="jgmarquesm" /></p>
- <img src="https://activity-graph.herokuapp.com/graph?username=jgmarquesm&bg_color=1c1c1c&color=FFE4B5&line=FF7F00&point=FF4500&hide_border=true&" />
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jgmarquesm&theme=dark" alt="jgmarquesm" /></p>
+ <img src="https://activity-graph.herokuapp.com/graph?username=jgmarquesm&bg_color=1c1c1c&color=FFE4B5&line=FF7F00&point=FF4500&area=true&hide_border=true">
  
  ![Snake animation](https://github.com/jgmarquesm/jgmarquesm/blob/output/github-contribution-grid-snake.svg)  
 
