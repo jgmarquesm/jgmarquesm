@@ -42,7 +42,7 @@
  </div>
 
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jgmarquesm&" alt="jgmarquesm" /></p>
- <img src="https://activity-graph.herokuapp.com/graph?username=jgmarquesm&bg_color=ffffff&color=FFE4B5&line=FF7F00&point=FF4500&hide_border=true&" />
+ <img src="https://activity-graph.herokuapp.com/graph?username=jgmarquesm&bg_color=1c1c1c&color=FFE4B5&line=FF7F00&point=FF4500&hide_border=true&" />
  
  ![Snake animation](https://github.com/jgmarquesm/jgmarquesm/blob/output/github-contribution-grid-snake.svg)  
 
