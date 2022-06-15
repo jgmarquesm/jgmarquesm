@@ -16,11 +16,14 @@
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
    <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
   </div>
-  <p>and its most used libraries.</p>
+  <p>and its most used libraries. And SQL too.</p>
 
  <h3>I'm very interested in: </h3>
   <div style="display: inline_block">
-   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++">
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" title="Flask">
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#"> =>
+   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg" title=".NET">
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> =>
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
    <img align="center" width="55px" src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java">
