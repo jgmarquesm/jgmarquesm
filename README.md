@@ -5,12 +5,12 @@
    <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex">
    <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter-Notebook">
    <p><b>Also a bit of</b></p>
-   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
+   <img align="center" width="41px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
   </div>
   <br>
   <p>And looking to switch my carrer to work as a Data Scientist with Machine Learning or also as a Backend Developer.</p>
 
-## 
+##
  <h3> I’m learning... </h3> 
   <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
