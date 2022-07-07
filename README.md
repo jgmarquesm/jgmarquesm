@@ -20,7 +20,7 @@
 
  <h3>I'm very interested in: </h3>
   <div style="display: inline_block">
-   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" title="Flask">
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="Fast API">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#"> =>
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg" title=".NET">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> =>
