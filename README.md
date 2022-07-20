@@ -11,12 +11,19 @@
   <p>And looking to switch my carrer to work as a Data Scientist with Machine Learning or also as a Backend Developer.</p>
 
 ##
- <h3> I’m learning... </h3> 
-  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
+<h3>My skills</h3>
+ <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
    <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
   </div>
   <p>and its most used libraries. And SQL too.</p>
+
+##
+ <h3> I’m learning... </h3> 
+  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
+   <img align="center" width="65px" src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java">
+   
+  </div>
 
  <h3>I'm very interested in: </h3>
   <div style="display: inline_block">
@@ -25,10 +32,11 @@
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg" title=".NET">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> =>
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
-   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
-   <img align="center" width="55px" src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java">
+   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">   
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
+   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
+   
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
   </div>
  <h3>and a little interested in: </h3>
