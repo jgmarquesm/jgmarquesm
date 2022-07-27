@@ -11,7 +11,7 @@
   <p>And looking to switch my carrer to work as a Data Scientist with Machine Learning or also as a Backend Developer.</p>
 
 ##
-<h3>My skills</h3>
+<h3>My skills</h3> 
  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
    <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
