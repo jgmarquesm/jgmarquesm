@@ -31,8 +31,7 @@
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#"> =>
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg" title=".NET">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> =>
-   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
-   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">   
+   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">   
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
