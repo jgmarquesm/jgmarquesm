@@ -22,12 +22,15 @@
  <h3> I’m learning... </h3> 
   <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="65px" src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java">
+   <img align="center" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" title="Groovy">
+   
    
   </div>
 
  <h3>I'm very interested in: </h3>
   <div style="display: inline_block">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="Fast API">
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#"> =>
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg" title=".NET">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> =>
