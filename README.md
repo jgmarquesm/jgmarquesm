@@ -11,20 +11,24 @@
   <p>And looking to switch my carrer to work as a Backend Developer.</p>
 
 ##
-<h3>My skills</h3> 
+<h3>My hard skills</h3> 
  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
    <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
+   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java">
+   <img align="center" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" title="Groovy">
+   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git">
+   <img align="center" width="40px" src="https://junit.org/junit5/assets/img/junit5-logo.png" title="JUnit5">
+   
   </div>
   <p>and its most used libraries. And SQL too.</p>
 
 ##
  <h3> I’m learning... </h3> 
   <div style="display: flex; justify-content: center; align-items: center; height: 40px">
-   <img align="center" width="65px" src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java">
-   <img align="center" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" title="Groovy">
-   
-   
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
   </div>
 
  <h3>I'm very interested in: </h3>
@@ -44,10 +48,8 @@
   </div>
  <h3>and a little interested in: </h3>
   <div style="display: inline_block">
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
-   <img align="center" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React-js">
+  <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular">
+  <img align="center" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React-js"> 
   </div>
   
 ##
