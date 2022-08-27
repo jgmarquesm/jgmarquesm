@@ -11,7 +11,7 @@
   <p>And looking to switch my carrer to work as a Backend Developer.</p>
 
 ##
-<h3>My hard skills</h3> 
+<h3>My hard skills </h3> 
  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
    <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
@@ -72,7 +72,7 @@
  ![Snake animation](https://github.com/jgmarquesm/jgmarquesm/blob/output/github-contribution-grid-snake.svg)  
 
 ##
- <h3> Follow, subscribe or contact me: </h3>
+ <h3> Reach me: </h3>
   <div>
    <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" target="_blank"></a>
    <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
