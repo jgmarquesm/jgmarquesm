@@ -19,6 +19,8 @@
    <img align="center" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" title="Groovy">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git">
    <img align="center" width="40px" src="https://junit.org/junit5/assets/img/junit5-logo.png" title="JUnit5">
+   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
    
   </div>
   <p>and its most used libraries. And SQL too.</p>
@@ -26,9 +28,9 @@
 ##
  <h3> I’m learning... </h3> 
   <div style="display: flex; justify-content: center; align-items: center; height: 40px">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="Typescript">
   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
+  <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap">
   </div>
 
  <h3>I'm very interested in: </h3>
@@ -42,14 +44,14 @@
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
-  
-  
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
+   <img align="center" width="80px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" title="Docker">
+   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernets">
   </div>
  <h3>and a little interested in: </h3>
   <div style="display: inline_block">
   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" title="Angular">
-  <img align="center" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React-js"> 
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React-js"> 
   </div>
   
 ##
