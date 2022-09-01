@@ -23,7 +23,6 @@
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
    
   </div>
-  <p>and its most used libraries. And SQL too.</p>
 
 ##
  <h3> I’m learning... </h3> 
