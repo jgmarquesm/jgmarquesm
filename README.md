@@ -22,6 +22,7 @@
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="Typescript">
+   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
   </div>
 
 ##
@@ -40,7 +41,6 @@
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> =>
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">   
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
-   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
    <img align="center" width="80px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" title="Docker">
