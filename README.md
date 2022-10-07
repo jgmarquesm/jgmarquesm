@@ -1,4 +1,4 @@
-<h2> Hey, I'm João Gabriel! </h2>
+<h2> Heeeey, I'm João Gabriel! </h2>
  <h3>I’m currently working on Physics researches and I use:</h3>
   <div style="display: flex; justify-content: center; align-items: center">
    <img align="center" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" title="Fortran">
@@ -54,7 +54,7 @@
   
 ##
  <h3 align="center"> Some Personal Statistics </h3>
-  <p align="center"> Profile visitors</p>
+  <p align="center"> Profile Statistics </p>
   <!-- visitors count  -->
 
  <p align="center" >   
@@ -72,11 +72,11 @@
  ![Snake animation](https://github.com/jgmarquesm/jgmarquesm/blob/output/github-contribution-grid-snake.svg)  
 
 ##
- <h3> Reach me: </h3>
+ <h3> Contact me: </h3>
   <div>
-   <a href = "mailto:joaogabrielmarques@discente.ufg.br"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" target="_blank"></a>
+   <a href="mailto:joaogabrielmarques@discente.ufg.br"><img width="40px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" target="_blank"></a>
    <a href="https://www.linkedin.com/in/jgmarquesm" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
-   <a href = "https://pt.stackoverflow.com/users/285047/jgmarquesm"><img width="35px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" target="_blank"></a>
-   <a href = "https://www.codewars.com/users/jgmarquesm"><img src="https://www.codewars.com/users/jgmarquesm/badges/micro" target="_blank"></a>
-   <a href = "https://web.dio.me/users/joaogabrielmarques"><img height="30" width="120" src="https://raw.githubusercontent.com/brunoemferreira/DIO-jogo-da-cobrinha-Javascript/main/Assets/logo-sm-white.png" target="_blank"></a>
+   <a href="https://pt.stackoverflow.com/users/285047/jgmarquesm"><img width="35px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" target="_blank"></a>
+   <a href="https://www.codewars.com/users/jgmarquesm"><img src="https://www.codewars.com/users/jgmarquesm/badges/micro" target="_blank"></a>
+   <a href= "https://web.dio.me/users/joaogabrielmarques"><img height="30" width="120" src="https://raw.githubusercontent.com/brunoemferreira/DIO-jogo-da-cobrinha-Javascript/main/Assets/logo-sm-white.png" target="_blank"></a>
   </div>
