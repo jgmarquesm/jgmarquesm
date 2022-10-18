@@ -1,50 +1,42 @@
-<h2> Heeeey, I'm João Gabriel! </h2>
- <h3>I’m currently working on Physics researches and I use:</h3>
-  <div style="display: flex; justify-content: center; align-items: center">
-   <img align="center" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" title="Fortran">
-   <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" title="Latex">
-   <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter-Notebook">
-   <p><b>Also a bit of</b></p>
-   <img align="center" width="41px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
-  </div>
-  <br>
+<h2>Heeeey, I'm João Gabriel!</h2>
   <p>And looking to switch my carrer to work as a Backend Developer.</p>
 
 ##
 <h3>My hard skills </h3> 
  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
-   <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
-   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java">
-   <img align="center" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" title="Groovy">
-   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git">
    <img align="center" width="40px" src="https://junit.org/junit5/assets/img/junit5-logo.png" title="JUnit5">
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="Typescript">
+   <img align="center" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" title="Groovy">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
+   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
+   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java">
+   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git">
+   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+   <img align="center" width="120px" src="https://cdn.worldvectorlogo.com/logos/gradle-1.svg" title="Gradle">
+  <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap">
   </div>
 
 ##
  <h3> I’m learning... </h3> 
   <div style="display: flex; justify-content: center; align-items: center; height: 40px">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
-  <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap">
+   For now, I'm studying about Clean Code, SOLID, Design Patterns, Microservices and REST/RESTFul API.
   </div>
 
  <h3>I'm very interested in: </h3>
   <div style="display: inline_block">
+   <img align="center" width="100px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" title="Docker">
+   <img align="center" width="45px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernets">
+   <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="Fast API">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring">
-   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#"> =>
-   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg" title=".NET">
-   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby"> =>
-   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">   
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
+   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/grails-1.svg" title="Grails">
+   <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-   <img align="center" width="80px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" title="Docker">
-   <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernets">
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby">
+   <img align="center" width="80px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" title="Jenkins">
   </div>
  <h3>and a little interested in: </h3>
   <div style="display: inline_block">
