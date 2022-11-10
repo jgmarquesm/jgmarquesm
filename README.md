@@ -21,7 +21,9 @@
 ##
  <h3> I’m learning... </h3> 
   <div style="display: flex; justify-content: center; align-items: center; height: 40px">
-   For now, I'm studying about Clean Code, SOLID, Design Patterns, Microservices and REST/RESTFul API.
+   For now, I'm studying about Clean Code, SOLID, Design Patterns, Microservices and REST/RESTFul API and 
+  <br>
+   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby">
   </div>
 
  <h3>I'm very interested in: </h3>
@@ -34,7 +36,6 @@
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/grails-1.svg" title="Grails">
    <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby">
    <img align="center" width="80px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" title="Jenkins">
   </div>
