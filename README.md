@@ -10,19 +10,16 @@
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="Typescript">
    <img align="center" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" title="Groovy">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git">
-   <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
    <img align="center" width="120px" src="https://cdn.worldvectorlogo.com/logos/gradle-1.svg" title="Gradle">
   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap">
   </div>
 
 ##
- <h3> I’m learning... </h3> 
-  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
-   For now, I'm studying about Clean Code, SOLID, Design Patterns, Microservices and REST/RESTFul API and 
-  <br>
+ <h3> I’m learning... </h3>
+  <div style="display: inline_block">
+   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/grails-1.svg" title="Grails">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby">
   </div>
 
@@ -33,7 +30,6 @@
    <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="Fast API">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring">
-   <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/grails-1.svg" title="Grails">
    <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
    <img align="center" width="80px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
