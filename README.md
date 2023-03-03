@@ -1,8 +1,10 @@
-<h2>Heeeey, I'm João Gabriel!</h2>
-  <p>And looking to switch my carrer to work as a Backend Developer.</p>
+Hi!
 
-##
-<h3>My hard skills </h3> 
+I'm a Physicist and also a Software Engineering Student. Currently I work as Software Enginnering Intern.
+
+I'll list above some of my hard skills. Check it out!
+
+### Some hard skills
  <div style="display: flex; justify-content: center; align-items: center; height: 40px">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="Typescript">
@@ -12,6 +14,7 @@
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git">
    <img align="center" width="120px" src="https://cdn.worldvectorlogo.com/logos/gradle-1.svg" title="Gradle">
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/grails-1.svg" title="Grails">
+  <img align="center" width="100px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" title="Docker">
   </div>
 
 ##
@@ -25,35 +28,24 @@
  <h3>I'm very interested in: </h3>
   <div style="display: inline_block">
    <img align="center" width="45px" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernets">
-   <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django">
-   <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" title="Fast API">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring">
    <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node-js">
    <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-   <img align="center" width="80px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" title="Ruby-on-Rails">
    <img align="center" width="35px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" title="Jenkins">
-  </div>
- <h3>and a little interested in: </h3>
-  <div style="display: inline_block">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React-js"> 
   </div>
   
 ##
  <h3 align="center"> Some Personal Statistics </h3>
-  <p align="center"> Profile Statistics </p>
-  <!-- visitors count  -->
-
  <p align="center" >   
+  <strong>Profile Views:</strong>
+  <br>
   <img src="https://profile-counter.glitch.me/jgmarquesm/count.svg" />  
  </p>
  <div align="center">
   <a href="https://github.com/jgmarquesm"></a>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=jgmarquesm&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmarquesm&layout=compact&langs_count=7&theme=gruvbox"/>
- </div>
-
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jgmarquesm&theme=dark" alt="jgmarquesm" /></p>
- <img src="https://activity-graph.herokuapp.com/graph?username=jgmarquesm&bg_color=1c1c1c&color=FFE4B5&line=FF7F00&point=FF4500&area=true&hide_border=true">
+  <img height="180em" width="430" src="https://github-readme-stats.vercel.app/api?username=jgmarquesm&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=jgmarquesm&theme=gruvbox" alt="jgmarquesm" /> 
+</div>
  
  ![Snake animation](https://github.com/jgmarquesm/jgmarquesm/blob/output/github-contribution-grid-snake.svg)  
 
